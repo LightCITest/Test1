@@ -1,3 +1,3 @@
 # Test1
 echo Hello
-return 1
+return 0
