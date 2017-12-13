@@ -1,3 +1,3 @@
 # Test1
-echo Hello
-return 0
+echo $PWD
+return 1
